@@ -1,21 +1,19 @@
-# Regras e escopo do MVP
+# 📋 Regras e escopo do MVP
 
-## Regras centrais
+## ⚖️ Regras centrais
 
-- a aula de carro custa **R$100**;
-- a aula de moto custa **R$100**;
-- a quantidade mínima é de **2 aulas**;
-- a reserva da agenda só acontece após pagamento aprovado;
-- o aluno vai até o ponto de encontro informado;
-- o instrutor não busca o aluno em residência;
-- avaliações influenciam a visibilidade;
-- denúncias seguem tolerância zero.
+| Regra | Definição |
+|---|---|
+| Valor da aula de carro | **R$100** |
+| Valor da aula de moto | **R$100** |
+| Quantidade mínima | **2 aulas** |
+| Reserva da agenda | Só após pagamento aprovado |
+| Ponto de encontro | O aluno vai até o local informado |
+| Busca em residência | Não existe no MVP |
+| Avaliação | Influencia a visibilidade |
+| Denúncias | Tolerância zero 🚨 |
 
-## Escopo do MVP
-
-O MVP foi desenhado para validar o fluxo principal com foco em operação real.
-
-### Dentro do escopo
+## ✅ Dentro do escopo
 
 - vitrine de instrutores;
 - busca por estado e cidade;
@@ -27,7 +25,7 @@ O MVP foi desenhado para validar o fluxo principal com foco em operação real.
 - confirmação final;
 - avaliação e denúncia.
 
-### Fora do escopo
+## ⛔ Fora do escopo
 
 - IA;
 - match psicológico;
@@ -37,10 +35,16 @@ O MVP foi desenhado para validar o fluxo principal com foco em operação real.
 - categorias C, D e E;
 - mudança ou adição de categoria.
 
-## Segurança e confiança
+## 🛡️ Segurança e confiança
 
-O produto prioriza um ambiente seguro e claro para ambas as partes.
+| Ponto | Diretriz |
+|---|---|
+| Comportamento inadequado | Pode gerar denúncia imediata |
+| Tratamento de denúncias | Seriedade e análise interna |
+| Experiência da marca | Profissional e objetiva |
+| Tom da comunicação | Claro, direto e confiável |
 
-- comportamento inadequado pode gerar denúncia;
-- denúncias são tratadas com seriedade;
-- a experiência deve transmitir profissionalismo desde o primeiro contato.
+## 📌 Resumo executivo
+
+O MVP existe para validar um fluxo real de contratação de aulas, sem excesso de complexidade.
+O foco é operação simples + confiança + clareza.

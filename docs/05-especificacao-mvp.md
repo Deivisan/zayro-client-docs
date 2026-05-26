@@ -1,19 +1,21 @@
-# Especificação resumida do MVP
+# 🛠️ Especificação resumida do MVP
 
-## Produto
+## 📦 Produto
 
 Plataforma nacional para conexão entre candidatos à CNH e instrutores práticos de direção.
 
-## Stack alvo
+## 🧰 Stack alvo
 
-- Flutter 3.41;
-- Dart 3.11;
-- Riverpod;
-- GoRouter;
-- Firebase;
-- Material 3.
+| Tecnologia | Papel |
+|---|---|
+| Flutter 3.41 | App principal |
+| Dart 3.11 | Linguagem |
+| Riverpod | Estado |
+| GoRouter | Navegação |
+| Firebase | Base de backend |
+| Material 3 | Sistema visual |
 
-## Fluxo resumido
+## 🔁 Fluxo resumido
 
 1. apresentação;
 2. situação do candidato;
@@ -29,15 +31,17 @@ Plataforma nacional para conexão entre candidatos à CNH e instrutores prático
 12. pagamento;
 13. confirmação.
 
-## Requisitos funcionais
+## ✅ Requisitos funcionais
 
-- mostrar apenas as categorias A, B e AB;
-- exibir instrutores por região;
-- permitir escolha de datas conforme disponibilidade;
-- exigir aceite dos termos antes do pagamento;
-- confirmar reserva somente após pagamento aprovado.
+| Requisito | Regra |
+|---|---|
+| Categorias exibidas | Apenas A, B e AB |
+| Busca de instrutores | Por região |
+| Datas e horários | Conforme disponibilidade |
+| Aceite de termos | Obrigatório antes do pagamento |
+| Reserva | Só após pagamento aprovado |
 
-## Requisitos de experiência
+## 🧪 Requisitos de experiência
 
 - linguagem simples;
 - telas diretas;
@@ -45,6 +49,6 @@ Plataforma nacional para conexão entre candidatos à CNH e instrutores prático
 - mensagens claras em erro e confirmação;
 - visual consistente em todo o fluxo.
 
-## Observação
+## 🔒 Nota
 
-Esta versão foi escrita para leitura pública e resumida, sem detalhes internos de implementação.
+Esta versão é pública e resumida, sem expor detalhes internos de implementação.

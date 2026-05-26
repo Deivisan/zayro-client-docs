@@ -1,25 +1,34 @@
-# Roadmap público
+# 🗺️ Roadmap público
 
-## Fase 1 — Base do produto
+## 🚦 Fase 1 — Base do produto
 
-- apresentar a proposta do Zayro;
-- estruturar cadastro e localização;
-- publicar a lista de instrutores;
-- permitir escolha de categoria e aulas.
+| Meta | Entrega |
+|---|---|
+| Apresentação | Explicar o Zayro de forma direta |
+| Cadastro | Capturar dados essenciais |
+| Localização | Conectar cidade e instrutores |
+| Categoria | Oferecer A, B e AB |
+| Aulas | Permitir escolha de quantidade |
 
-## Fase 2 — Operação do agendamento
+## 🧩 Fase 2 — Operação do agendamento
 
-- melhorar o perfil do instrutor;
-- refinar agenda e disponibilidade;
-- consolidar resumo, termos e pagamento;
-- fechar o fluxo de confirmação.
+| Meta | Entrega |
+|---|---|
+| Perfil do instrutor | Mais clareza e confiança |
+| Agenda | Disponibilidade mais precisa |
+| Resumo | Revisão do pedido antes do pagamento |
+| Termos | Aceite obrigatório |
+| Confirmação | Fechamento da contratação |
 
-## Fase 3 — Evolução da experiência
+## ✨ Fase 3 — Evolução da experiência
 
-- melhorar a clareza das telas;
-- reforçar confiança e consistência visual;
-- ampliar a comunicação operacional entre aluno e instrutor.
+| Meta | Entrega |
+|---|---|
+| Clareza visual | Melhor leitura em mobile |
+| Consistência | Mais uniformidade entre telas |
+| Confiança | Tom visual mais sólido |
+| Comunicação | Mensagens mais claras para o usuário |
 
-## Observação
+## 📌 Observação
 
 O roadmap público acompanha a evolução do produto sem expor detalhes internos do desenvolvimento.

@@ -1,44 +1,56 @@
-# Visão geral
+# 🧭 Visão geral
 
-O Zayro é uma plataforma nacional para conectar pessoas que estão buscando aulas práticas de direção com instrutores cadastrados.
+> O Zayro foi pensado para tornar a busca por aulas práticas de direção mais simples, objetiva e confiável.
 
-## Objetivo do produto
+## 🎯 Objetivo do produto
 
-O produto foi desenhado para ser direto, confiável e fácil de usar.
-O candidato consegue entender a proposta, encontrar instrutores na sua região, escolher aulas e concluir a jornada com clareza.
+O foco do MVP é entregar uma jornada direta: o candidato entende o serviço, encontra instrutores na região, escolhe aulas e conclui tudo com clareza.
 
-## O que o Zayro oferece no MVP
+## 📦 O que o MVP entrega
 
-- vitrine de instrutores;
-- agenda prática;
-- organização de horários;
-- pagamento;
-- avaliação;
-- denúncias;
-- intermediação operacional.
+| Bloco | Descrição |
+|---|---|
+| 🪪 Vitrine de instrutores | Exibe instrutores cadastrados por região |
+| 🗓️ Agenda prática | Mostra horários disponíveis e organização das aulas |
+| 💳 Pagamento | Finalização do pedido com confirmação |
+| ⭐ Avaliação | Sinaliza reputação e confiança |
+| 🚨 Denúncias | Reforça segurança e tolerância zero |
+| 🔗 Intermediação | Conecta candidato e instrutor sem complicação |
 
-## Princípios do MVP
+## 🌟 Princípios do MVP
 
-- simplicidade antes de complexidade;
-- foco em localização e disponibilidade;
-- fluxo curto e objetivo;
-- regras claras de agendamento e pagamento;
-- experiência visual confiável e profissional.
+| Princípio | O que significa na prática |
+|---|---|
+| Simplicidade | Menos passos, menos ruído |
+| Clareza | Cada tela deixa claro o próximo passo |
+| Confiança | Visual e linguagem profissionais |
+| Localização | A busca gira em torno de cidade e disponibilidade |
+| Operação | O fluxo funciona do agendamento à confirmação |
 
-## Categorias atendidas
+## 🏷️ Categorias atendidas
 
-O MVP trabalha apenas com:
+O MVP trabalha somente com estas categorias:
 
-- **A** — Moto
-- **B** — Carro
-- **AB** — Moto e carro
+| Categoria | Significado |
+|---|---|
+| **A** | Moto 🏍️ |
+| **B** | Carro 🚗 |
+| **AB** | Moto e carro 🏍️🚗 |
 
-## O que não faz parte desta fase
+## ⛔ Fora desta fase
 
 - inteligência artificial;
 - match psicológico;
 - onboarding emocional;
-- distribuição automática avançada;
+- automação avançada;
 - categorias C, D e E;
 - mudança de categoria;
 - adição de categoria.
+
+## ✅ Resultado esperado
+
+O usuário precisa sair da página entendendo três coisas:
+
+1. o que o Zayro faz;
+2. como o fluxo funciona;
+3. por que o MVP é simples e confiável.

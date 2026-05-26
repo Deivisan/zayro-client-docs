@@ -1,32 +1,36 @@
-# Fluxo do candidato
+# 👤 Fluxo do candidato
 
-Esta é a jornada principal do candidato dentro do Zayro.
+Esta é a jornada principal do cliente no Zayro.
 
-## Etapas
+## 🪜 Etapas da jornada
 
-1. Entender a proposta do serviço.
-2. Informar sua situação atual.
-3. Criar o cadastro.
-4. Escolher estado e cidade.
-5. Selecionar a categoria desejada.
-6. Ver instrutores disponíveis.
-7. Abrir o perfil e a agenda do instrutor.
-8. Escolher a quantidade de aulas.
-9. Definir datas e horários.
-10. Revisar o resumo do pedido.
-11. Aceitar os termos.
-12. Realizar o pagamento.
-13. Confirmar o agendamento.
+| # | Etapa | Objetivo |
+|---|---|---|
+| 1 | Entender a proposta | Saber o que o serviço entrega |
+| 2 | Informar situação | Contextualizar a necessidade do aluno |
+| 3 | Criar cadastro | Registrar dados básicos |
+| 4 | Escolher localidade | Definir estado e cidade |
+| 5 | Selecionar categoria | Escolher A, B ou AB |
+| 6 | Ver instrutores | Encontrar opções disponíveis |
+| 7 | Abrir perfil | Conferir detalhes e agenda |
+| 8 | Definir quantidade | Escolher o número de aulas |
+| 9 | Escolher datas | Reservar horários disponíveis |
+| 10 | Revisar resumo | Conferir pedido e valores |
+| 11 | Aceitar termos | Confirmar concordância |
+| 12 | Pagar | Finalizar a contratação |
+| 13 | Confirmar | Receber a confirmação final |
 
-## Situação do candidato
+## 🧠 Situação do candidato
 
-A plataforma usa uma classificação simples para contextualizar a necessidade do aluno:
+O sistema usa apenas uma leitura simples da situação do aluno:
 
-- primeira habilitação;
-- já habilitado, mas inseguro;
-- retorno após reprovação.
+| Situação | O que comunica |
+|---|---|
+| Primeira habilitação | Pessoa iniciando o processo |
+| Já habilitado, mas inseguro | Precisa de reforço prático |
+| Retorno após reprovação | Precisa voltar à rotina de prática |
 
-## Cadastro básico
+## 🧾 Cadastro básico
 
 Campos principais:
 
@@ -36,30 +40,37 @@ Campos principais:
 - telefone;
 - e-mail.
 
-## Localização
+## 📍 Localização
 
-O sistema pede:
+O fluxo pede:
 
 - estado;
 - cidade.
 
-Se não houver instrutor na cidade informada, o sistema pode sugerir regiões próximas.
+Se não houver instrutor na cidade, o sistema pode sugerir alternativas próximas.
 
-## Escolha de categoria
+## 🏍️🚗 Categoria
 
-O candidato escolhe entre:
+| Categoria | Uso |
+|---|---|
+| **A** | Moto |
+| **B** | Carro |
+| **AB** | Moto e carro |
 
-- moto;
-- carro;
-- moto e carro.
+## 🎫 Aulas
 
-## Escolha de aulas
+| Regra | Valor |
+|---|---|
+| Quantidade mínima | **2 aulas** |
+| Aula de moto | **R$100** |
+| Aula de carro | **R$100** |
 
-- quantidade mínima: **2 aulas**;
-- o candidato pode aumentar a quantidade conforme a necessidade;
-- o valor é calculado de forma simples por aula.
+## ✅ Fechamento
 
-## Fechamento
+Antes do pagamento, o candidato:
 
-Antes de pagar, o candidato revisa o resumo, aceita os termos e finaliza o pagamento.
+- revisa o resumo;
+- aceita os termos;
+- conclui o pagamento.
+
 Depois da aprovação, a agenda é reservada.
