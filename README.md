@@ -1,12 +1,20 @@
 # 🚗 Zayro — estrutura completa do MVP simplificado
 
-> **Versão pública, clara e organizada para leitura do cliente.**
+> **Versão pública, visual e correta para leitura do cliente.**
 
 [![Status](https://img.shields.io/badge/status-documenta%C3%A7%C3%A3o%20p%C3%BAblica-brightgreen)]()
 [![Escopo](https://img.shields.io/badge/escopo-MVP%20nacional-blue)]()
 [![Leitura](https://img.shields.io/badge/leitura-executiva-orange)]()
 
-## ✨ Visão geral do produto
+<p align="center">
+  <img src="./assets/brand/zayro-logo.svg" alt="Zayro logo" width="360" />
+</p>
+
+<p align="center">
+  <img src="./assets/brand/zayro-mark.svg" alt="Zayro mark" width="120" />
+</p>
+
+## 🧭 Visão geral do produto
 
 O **Zayro** é uma plataforma nacional de conexão entre **candidatos à CNH** e **instrutores práticos de direção**.
 
@@ -20,8 +28,6 @@ O aplicativo funciona como:
 - 🔗 intermediação operacional.
 
 ## 🎯 Objetivo do MVP
-
-O MVP foi desenhado para ser:
 
 | Objetivo | O que significa |
 |---|---|
@@ -52,6 +58,24 @@ O Zayro trabalha com cinco pilares:
 | ⏱️ Disponibilidade | Mostrar horários livres |
 | 💳 Pagamento | Confirmar a contratação |
 | ⭐ Reputação do instrutor | Dar prioridade e destaque |
+
+### 🔄 Fluxo visual
+
+```mermaid
+flowchart LR
+  A[Apresentação] --> B[Situação]
+  B --> C[Cadastro]
+  C --> D[Localização]
+  D --> E[Categoria]
+  E --> F[Instrutores]
+  F --> G[Perfil]
+  G --> H[Quantidade de aulas]
+  H --> I[Datas e horários]
+  I --> J[Resumo]
+  J --> K[Termos]
+  K --> L[Pagamento]
+  L --> M[Confirmação]
+```
 
 ## 🏷️ Categorias disponíveis
 
@@ -162,14 +186,16 @@ Cada card deve mostrar:
 - Pequena descrição profissional
 - Próximos horários disponíveis
 
-**Exemplo de exibição:**
+#### Exemplo de card
 
-> João Carlos
-> Categoria B — Carro
-> ⭐ 4,9 (124 avaliações)
-> Cuiabá — MT
-> Ponto de encontro: Shopping Pantanal
-> “Instrutor com foco em candidatos iniciantes e preparação para prova prática.”
+| Campo | Conteúdo |
+|---|---|
+| Nome | João Carlos |
+| Categoria | B — Carro |
+| Avaliação | ⭐ 4,9 (124 avaliações) |
+| Cidade | Cuiabá — MT |
+| Ponto de encontro | Shopping Pantanal |
+| Descrição | Instrutor com foco em candidatos iniciantes e preparação para prova prática. |
 
 ### 7. Perfil completo do instrutor
 
@@ -223,11 +249,12 @@ O sistema calcula automaticamente:
 
 **Quantidade × valor da aula**
 
-Exemplos:
-
-- 2 aulas = R$200
-- 5 aulas = R$500
-- 10 aulas = R$1.000
+```mermaid
+pie title Valor total por quantidade
+  "2 aulas = R$200" : 200
+  "5 aulas = R$500" : 500
+  "10 aulas = R$1.000" : 1000
+```
 
 ### 10. Escolha das datas
 
@@ -497,6 +524,16 @@ Cada erro deve ter:
 - mensagem clara;
 - botão de retorno;
 - orientação do próximo passo.
+
+## 📈 Leitura executiva do produto
+
+```mermaid
+xychart-beta
+  title "Prioridade do MVP"
+  x-axis ["Localização", "Agenda", "Pagamento", "Reputação", "Denúncia"]
+  y-axis "Importância" 0 --> 5
+  bar [5, 5, 5, 4, 4]
+```
 
 ## 📌 Fechamento
 
