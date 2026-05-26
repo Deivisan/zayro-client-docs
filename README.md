@@ -10,10 +10,6 @@
   <img src="./assets/brand/zayro-logo.png" alt="Logo oficial do Zayro" width="192" />
 </p>
 
-<p align="center">
-  <img src="./assets/brand/zayro-mark.png" alt="Marca secundária do Zayro" width="96" />
-</p>
-
 ## 🧭 Visão geral do produto
 
 O **Zayro** é uma plataforma nacional de conexão entre **candidatos à CNH** e **instrutores práticos de direção**.
