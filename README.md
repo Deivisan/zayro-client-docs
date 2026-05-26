@@ -7,11 +7,11 @@
 [![Leitura](https://img.shields.io/badge/leitura-executiva-orange)]()
 
 <p align="center">
-  <img src="./assets/brand/zayro-logo.svg" alt="Zayro logo" width="360" />
+  <img src="./assets/brand/zayro-logo.png" alt="Logo oficial do Zayro" width="192" />
 </p>
 
 <p align="center">
-  <img src="./assets/brand/zayro-mark.svg" alt="Zayro mark" width="120" />
+  <img src="./assets/brand/zayro-mark.png" alt="Marca secundária do Zayro" width="96" />
 </p>
 
 ## 🧭 Visão geral do produto
