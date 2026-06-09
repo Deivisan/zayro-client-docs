@@ -14,6 +14,14 @@
 
 O **Zayro** é uma plataforma nacional de conexão entre **candidatos à CNH** e **instrutores práticos de direção**.
 
+## 📚 Documentos principais
+
+| Documento | Link |
+|---|---|
+| Índice público | [Abrir](./index.md) |
+| Roadmap de execução | [Abrir](./docs/07-roadmap-execucao.md) |
+| Contrato de prestação de serviços | [Abrir](./CONTRATO-PRESTACAO-SERVICOS.md) |
+
 O aplicativo funciona como:
 
 - 🪪 vitrine de instrutores;

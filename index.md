@@ -21,7 +21,8 @@ O Zayro é uma plataforma nacional de conexão entre candidatos à CNH e instrut
 - regras do MVP;
 - identidade visual;
 - especificação resumida;
-- roadmap público.
+- roadmap público;
+- roadmap de execução e contrato comercial.
 
 ## 📚 Acesse a documentação
 
@@ -33,6 +34,8 @@ O Zayro é uma plataforma nacional de conexão entre candidatos à CNH e instrut
 | Identidade visual | [Abrir](./docs/04-identidade-visual.md) |
 | Especificação MVP | [Abrir](./docs/05-especificacao-mvp.md) |
 | Roadmap público | [Abrir](./docs/06-roadmap-publico.md) |
+| Roadmap de execução | [Abrir](./docs/07-roadmap-execucao.md) |
+| Contrato de prestação de serviços | [Abrir](./CONTRATO-PRESTACAO-SERVICOS.md) |
 
 ## 🔗 Link oficial
 
