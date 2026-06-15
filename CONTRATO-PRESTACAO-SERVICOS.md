@@ -171,49 +171,23 @@ A entrega contratada ao CONTRATANTE, até a quitação integral, corresponde ao 
 
 ### 5.3 Transferência do código-fonte mediante quitação total
 
-Uma vez efetuada a quitação integral do valor contratado (R$ 3.000,00), bem como de quaisquer valores adicionais formalmente contratados entre as partes, a CONTRATADA obriga-se a disponibilizar ao CONTRATANTE o código-fonte atualizado do projeto, bem como os arquivos, credenciais, configurações e informações técnicas indispensáveis à continuidade operacional da plataforma.
+Uma vez efetuada a quitação integral do valor contratado (R$ 3.000,00), bem como de quaisquer valores adicionais formalmente contratados entre as partes, a CONTRATADA obriga-se a entregar ao CONTRATANTE o código-fonte completo e atualizado do projeto, juntamente com todos os arquivos, configurações, exportações de dados, scripts e informações técnicas necessárias à replicação e continuidade operacional da plataforma.
 
 A partir da quitação integral e da efetiva entrega dos elementos previstos nesta cláusula, o código-fonte passará a pertencer ao CONTRATANTE para fins de continuidade, manutenção, evolução e gestão do projeto Zayro, permanecendo reconhecida a contribuição técnica da CONTRATADA como desenvolvedora responsável pela implementação da solução.
 
 A entrega deverá ocorrer de forma organizada e cooperativa, garantindo a continuidade do funcionamento do aplicativo sem prejuízo aos usuários e à operação do CONTRATANTE.
 
-Juntamente com o código-fonte, a CONTRATADA deverá disponibilizar ao CONTRATANTE todos os acessos administrativos indispensáveis à continuidade operacional do projeto Zayro, incluindo, quando aplicável:
-
-- repositórios de código;
-- infraestrutura Firebase;
-- banco de dados;
-- Firebase Authentication;
-- Firebase Storage;
-- contas de publicação nas lojas de aplicativos;
-- integrações de pagamento;
-- serviços de terceiros vinculados ao projeto;
-- APIs utilizadas pelo sistema;
-- credenciais técnicas;
-- configurações de produção;
-- documentação disponível;
-- demais recursos necessários para a manutenção e continuidade da plataforma.
+A CONTRATADA fornecerá ao CONTRATANTE o código-fonte, os arquivos de projeto, as exportações do banco de dados, as configurações de ambiente (sem credenciais ativas), a documentação técnica disponível e um guia detalhado de implantação, de modo que o CONTRATANTE possa criar e administrar sua própria infraestrutura de forma independente, incluindo a criação de novos projetos no Firebase e demais serviços, sem depender das contas ou credenciais utilizadas pela CONTRATADA durante o desenvolvimento.
 
 ### 5.3.1 Transferência e titularidade dos ativos operacionais
 
-Após a quitação integral do valor contratado e de quaisquer valores adicionais eventualmente devidos, a CONTRATADA compromete-se a realizar, sem ônus adicional, a transferência ou regularização da titularidade dos ativos operacionais vinculados ao projeto Zayro para os dados indicados pelo CONTRATANTE.
+Após a quitação integral do valor contratado e de quaisquer valores adicionais eventualmente devidos, a CONTRATADA compromete-se a realizar, sem ônus adicional, a transferência adequada das informações, configurações e dados necessários para que o CONTRATANTE possa constituir sua própria infraestrutura operacional do projeto Zayro de forma independente.
 
-Para fins desta cláusula, consideram-se ativos operacionais, entre outros:
+A CONTRATADA fornecerá todas as exportações de dados, configurações de ambiente, estrutura do banco de dados, regras de segurança, integrações documentadas e demais informações técnicas, de modo que o CONTRATANTE possa criar e assumir a titularidade de seus próprios projetos e contas nos serviços utilizados (Firebase, Google Play Console, domínios, gateway de pagamento, e-mail transacional e demais), sem que isso implique a transferência direta das contas ou credenciais atualmente utilizadas pela CONTRATADA.
 
-- Conta principal do Firebase;
-- Banco de dados e serviços vinculados ao Firebase;
-- Contas Google Play Console e demais plataformas de publicação;
-- Domínios registrados para o projeto;
-- Contas de gateway de pagamento;
-- Serviços de e-mail transacional;
-- APIs e integrações de terceiros contratadas para operação da plataforma;
-- Repositórios, credenciais e acessos administrativos relacionados exclusivamente ao projeto Zayro;
-- Demais serviços indispensáveis ao funcionamento da plataforma.
+O CONTRATANTE será responsável por criar as novas contas e projetos em seu próprio nome. A CONTRATADA prestará orientação técnica e suporte razoável durante o processo de migração e replicação da infraestrutura, limitado ao período de entrega e quitação.
 
-O CONTRATANTE indicará o endereço de e-mail e demais dados cadastrais que deverão constar como titular principal desses ativos.
-
-Após a transferência ou regularização da titularidade, a CONTRATADA poderá permanecer com acesso administrativo, técnico ou operacional aos referidos serviços enquanto mantiver vínculo contratual de desenvolvimento, manutenção ou suporte com o CONTRATANTE, sem que isso implique alteração da titularidade dos ativos.
-
-As partes reconhecem que a titularidade dos ativos operacionais vinculados ao projeto Zayro deverá permanecer em nome do CONTRATANTE, garantindo a continuidade do negócio independentemente da manutenção futura da relação contratual entre as partes.
+As partes reconhecem que, após a quitação integral, a titularidade plena do projeto Zayro, do código-fonte e da infraestrutura operacional deverá estar em nome do CONTRATANTE, garantindo a continuidade do negócio independentemente da manutenção futura da relação contratual entre as partes.
 
 ### 5.4 Rescisão ou encerramento antes da quitação total
 
@@ -231,7 +205,7 @@ Caso a rescisão ocorra após a quitação integral dos serviços contratados, a
 
 ### 5.5 Continuidade operacional e contingência
 
-Caso a relação contratual seja encerrada por qualquer das partes após a quitação integral, ou em caso de encerramento das atividades da CONTRATADA, incapacidade de prestação dos serviços, impossibilidade de continuidade do suporte técnico ou descontinuidade definitiva das operações da CONTRATADA, esta disponibilizará ao CONTRATANTE ou ao profissional por ele indicado a versão mais recente do código-fonte, juntamente com os acessos, credenciais, configurações e orientações técnicas indispensáveis à continuidade, manutenção e evolução da plataforma.
+Caso a relação contratual seja encerrada por qualquer das partes após a quitação integral, ou em caso de encerramento das atividades da CONTRATADA, incapacidade de prestação dos serviços, impossibilidade de continuidade do suporte técnico ou descontinuidade definitiva das operações da CONTRATADA, esta disponibilizará ao CONTRATANTE ou ao profissional por ele indicado a versão mais recente do código-fonte, juntamente com as exportações de dados, configurações, documentação técnica e orientações necessárias à continuidade, manutenção e evolução da plataforma.
 
 Esta disposição tem por finalidade assegurar a continuidade operacional do projeto Zayro e não representa obrigação de entrega antecipada do código-fonte durante a vigência normal da parceria ou antes da quitação integral das obrigações financeiras assumidas pelo CONTRATANTE.
 
@@ -326,7 +300,7 @@ Não é exigida assinatura física para início ou continuidade da prestação d
 
 ---
 
-> **Versão:** 2.3 — Atualizado em 15/06/2026  
+> **Versão:** 2.4 — Atualizado em 15/06/2026  
 > **Contratada:** DeiviTech — CNPJ 54.910.501/0001-34  
 > **Representante:** Deivison de Lima Santana  
 > **Contato:** deivitechfsa@gmail.com — 75 98123-1019  
