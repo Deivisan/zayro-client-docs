@@ -183,7 +183,9 @@ A CONTRATADA fornecerá ao CONTRATANTE o código-fonte, os arquivos de projeto, 
 
 Após a quitação integral do valor contratado e de quaisquer valores adicionais eventualmente devidos, a CONTRATADA compromete-se a realizar, sem ônus adicional, a transferência adequada das informações, configurações e dados necessários para que o CONTRATANTE possa constituir sua própria infraestrutura operacional do projeto Zayro de forma independente.
 
-A CONTRATADA fornecerá todas as exportações de dados, configurações de ambiente, estrutura do banco de dados, regras de segurança, integrações documentadas e demais informações técnicas, de modo que o CONTRATANTE possa criar e assumir a titularidade de seus próprios projetos e contas nos serviços utilizados (Firebase, Google Play Console, domínios, gateway de pagamento, e-mail transacional e demais), sem que isso implique a transferência direta das contas ou credenciais atualmente utilizadas pela CONTRATADA.
+A CONTRATADA fornecerá todas as exportações de dados, configurações de ambiente, estrutura do banco de dados, regras de segurança, integrações documentadas e demais informações técnicas, de modo que o CONTRATANTE possa criar e assumir a titularidade de seus próprios projetos e contas nos serviços utilizados (Firebase, domínios, gateway de pagamento, e-mail transacional e demais serviços necessários à operação da plataforma), sem que isso implique a transferência direta das contas ou credenciais atualmente utilizadas pela CONTRATADA.
+
+A CONTRATADA não fornecerá contas de publicação na Google Play Store, Google Play Console ou demais lojas de aplicativos. A responsabilidade pela criação, titularidade e custos de qualquer conta de publicação é exclusivamente do CONTRATANTE.
 
 O CONTRATANTE será responsável por criar as novas contas e projetos em seu próprio nome. A CONTRATADA prestará orientação técnica e suporte razoável durante o processo de migração e replicação da infraestrutura, limitado ao período de entrega e quitação.
 
@@ -300,7 +302,7 @@ Não é exigida assinatura física para início ou continuidade da prestação d
 
 ---
 
-> **Versão:** 2.4 — Atualizado em 15/06/2026  
+> **Versão:** 2.5 — Atualizado em 15/06/2026  
 > **Contratada:** DeiviTech — CNPJ 54.910.501/0001-34  
 > **Representante:** Deivison de Lima Santana  
 > **Contato:** deivitechfsa@gmail.com — 75 98123-1019  
