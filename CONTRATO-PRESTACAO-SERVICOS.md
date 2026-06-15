@@ -39,7 +39,7 @@ O aplicativo **ainda não está em versão final funcional**, não foi entregue 
 
 A entrega contratada corresponde a um **aplicativo Android funcional**, com fluxo operacional do MVP, disponibilizado para uso e validação do CONTRATANTE após conclusão das etapas pendentes.
 
-O código-fonte permanece restrito ao idealizador do projeto (DeiviTech / Deivison de Lima Santana). A entrega ao CONTRATANTE é exclusivamente o **aplicativo Android funcional**. O código-fonte somente será fornecido nas hipóteses expressamente previstas na cláusula 5.4 deste contrato.
+O código-fonte permanece restrito à CONTRATADA até a quitação total do projeto. Após a quitação integral de todos os valores contratados, o código-fonte será entregue ao CONTRATANTE, passando a pertencer integral e exclusivamente a ele, com o projeto Zayro idealizado por ele. A entrega do código-fonte somente ocorrerá nas hipóteses expressamente previstas nas cláusulas 5.3 e 5.5 deste contrato.
 
 ---
 
@@ -149,34 +149,50 @@ Funcionalidades novas devem ser previamente acordadas entre as partes antes de q
 
 ---
 
-## 5. Propriedade do código-fonte
+## 5. Propriedade do código-fonte e titularidade do projeto
 
-### 5.1 Titularidade e restrição de acesso
+### 5.1 Titularidade do projeto e concepção
 
-O código-fonte, arquitetura, estrutura técnica, repositório, componentes reutilizáveis, serviços e lógica de implementação pertencem exclusivamente à **DeiviTech / Deivison de Lima Santana**, na qualidade de idealizador e responsável técnico pelo projeto.
+As partes reconhecem que o aplicativo Zayro foi concebido e idealizado pelo CONTRATANTE, que definiu seu modelo de negócio, fluxos operacionais, regras de funcionamento, funcionalidades, estratégias comerciais e demais elementos conceituais que compõem a plataforma.
 
-O código-fonte fica **restrito ao idealizador do projeto**. O CONTRATANTE não tem acesso ao código-fonte em nenhuma hipótese, salvo nas condições expressamente previstas na cláusula 5.4.
+A CONTRATADA atua na condição de prestadora de serviços técnicos especializados, sendo responsável pela implementação tecnológica, programação, arquitetura do sistema e demais atividades necessárias para transformar a concepção do CONTRATANTE em aplicativo funcional.
 
-A entrega contratada ao CONTRATANTE é exclusivamente o **aplicativo Android funcional** para uso dentro do escopo, não incluindo cessão, venda, transferência ou acesso ao código-fonte.
+A propriedade da marca Zayro, do modelo de negócio, dos fluxos operacionais, das regras de negócio, da base de usuários, dos dados gerados pela operação e dos demais ativos comerciais vinculados ao projeto pertence exclusivamente ao CONTRATANTE.
 
-### 5.2 Rescisão ou quebra de contrato pelo CONTRATANTE
+### 5.2 Guarda e titularidade do código-fonte até a quitação total
 
-Em caso de quebra de contrato, inadimplência ou rescisão pelo CONTRATANTE, fica estabelecido que:
+Durante a vigência desta relação contratual e **até a quitação total do valor contratado**, o código-fonte, arquitetura, estrutura técnica, repositório, componentes reutilizáveis, serviços e lógica de implementação permanecem sob guarda, administração e propriedade exclusiva da CONTRATADA (DeiviTech / Deivison de Lima Santana), na qualidade de idealizadora técnica e redentora do código-fonte.
+
+O CONTRATANTE e a CONTRATADA são reconhecidos como **redentores conjuntos do projeto Zayro**: o CONTRATANTE como idealizador do negócio e da concepção, e a CONTRATADA como idealizadora e responsável pela implementação técnica e pelo código-fonte.
+
+O código-fonte fica **restrito à CONTRATADA até a quitação total**. O CONTRATANTE não tem acesso ao código-fonte em nenhuma hipótese enquanto não houver quitação integral do projeto, salvo nas condições expressamente previstas nas cláusulas 5.4 e 5.5.
+
+A entrega contratada ao CONTRATANTE é exclusivamente o **aplicativo Android funcional** para uso dentro do escopo, não incluindo cessão, venda, transferência ou acesso ao código-fonte até a quitação total.
+
+### 5.3 Transferência do código-fonte mediante quitação total
+
+**Uma vez efetuada a quitação total do valor contratado (R$ 3.000,00) e de quaisquer valores adicionais eventualmente devidos**, a CONTRATADA compromete-se a disponibilizar ao CONTRATANTE o código-fonte atualizado do projeto, bem como os arquivos, credenciais, configurações e informações técnicas indispensáveis para a continuidade operacional da plataforma.
+
+A partir desse momento, o código-fonte passa a pertencer **integral e exclusivamente ao CONTRATANTE**, que assume a titularidade plena do projeto Zayro como seu idealizador e proprietário. A CONTRATADA é reconhecida como a responsável pela implementação técnica que viabilizou o aplicativo.
+
+A entrega deverá ocorrer de forma organizada e cooperativa, visando assegurar a continuidade do funcionamento do aplicativo sem prejuízo aos usuários e à operação do CONTRATANTE.
+
+### 5.4 Rescisão ou encerramento antes da quitação total
+
+Em caso de quebra de contrato, inadimplência ou rescisão pelo CONTRATANTE antes da quitação total, fica estabelecido que:
 
 - O código-fonte permanece integralmente sob propriedade e controle exclusivo da CONTRATADA;
 - A CONTRATADA poderá suspender desenvolvimento, manutenção, deploy, acesso técnico e operação vinculada à sua infraestrutura;
 - O CONTRATANTE manterá apenas o que já tiver recebido como aplicativo Android/protótipo/apresentação, conforme estágio do projeto no momento da rescisão;
-- Não haverá obrigação de entrega do código-fonte, exceto nas hipóteses previstas na cláusula 5.4.
+- Não haverá obrigação de entrega do código-fonte.
 
-### 5.3 Valor técnico de instância e código
+Estando quitadas as obrigações financeiras referentes aos serviços efetivamente prestados até a data da rescisão, aplicam-se as regras da cláusula 5.5 apenas em casos de contingência extrema.
 
-As partes reconhecem que a infraestrutura em operação, a instância Firebase mantida pela CONTRATADA, a arquitetura técnica e o código já desenvolvido possuem valor técnico estimado de **R$ 13.000,00 (treze mil reais)**.
+### 5.5 Continuidade operacional e contingência
 
-Esse valor representa a base técnica, a estrutura de execução e o aplicativo Android produzido/operado pela CONTRATADA, não significando transferência automática de propriedade ao CONTRATANTE.
+Caso a relação contratual seja encerrada por qualquer das partes após a quitação total, ou em caso de encerramento das atividades da CONTRATADA, incapacidade de prestação dos serviços ou impossibilidade de continuidade do suporte técnico, a CONTRATADA disponibilizará ao CONTRATANTE ou ao profissional por ele indicado a versão mais recente do código-fonte, juntamente com as orientações técnicas indispensáveis à continuidade, manutenção e evolução da plataforma.
 
-### 5.4 Entrega condicional do código-fonte (contingência)
-
-Parágrafo único: Em caso de encerramento das atividades da CONTRATADA, incapacidade de prestar suporte técnico ou descontinuidade definitiva dos serviços, a CONTRATADA entregará ao CONTRATANTE ou ao profissional por ele indicado o código-fonte mais recente do aplicativo, bem como as orientações técnicas indispensáveis à sua utilização e manutenção.
+Esta disposição tem como finalidade garantir a continuidade operacional do projeto Zayro e não representa obrigação de entrega antecipada do código-fonte durante a vigência normal da parceria entre as partes ou antes da quitação total.
 
 ---
 
@@ -201,7 +217,7 @@ O CONTRATANTE se obriga a:
 - Fornecer informações necessárias para configuração de contas, domínio, Firebase, gateway de pagamento e demais serviços;
 - Validar telas, fluxos e decisões de produto em prazo razoável;
 - Arcar com custos externos da plataforma, quando existirem;
-- Não reivindicar propriedade ou acesso ao código-fonte, repositório ou estrutura técnica da CONTRATADA, salvo nas hipóteses previstas na cláusula 5.4.
+- Não reivindicar propriedade ou acesso ao código-fonte, repositório ou estrutura técnica da CONTRATADA enquanto não houver quitação total do projeto, conforme cláusulas 5.2 e 5.3.
 
 ---
 
@@ -235,7 +251,7 @@ Não fazem parte do escopo atual:
 Caso o CONTRATANTE deseje rescindir o contrato antes da conclusão:
 
 - Os valores já pagos não serão devolvidos, pois correspondem a trabalho técnico já executado;
-- A CONTRATADA não terá obrigação de entregar código-fonte, exceto nas hipóteses previstas na cláusula 5.4;
+- A CONTRATADA não terá obrigação de entregar código-fonte enquanto não houver quitação total do projeto, exceto nas hipóteses extremas previstas na cláusula 5.5;
 - A CONTRATADA poderá interromper infraestrutura, deploy e manutenção;
 - O CONTRATANTE receberá apenas o estado do aplicativo Android/protótipo disponível no momento, se tecnicamente possível.
 
@@ -269,7 +285,7 @@ Não é exigida assinatura física para início ou continuidade da prestação d
 
 ---
 
-> **Versão:** 2.1 — Atualizado em 15/06/2026  
+> **Versão:** 2.2 — Atualizado em 15/06/2026  
 > **Contratada:** DeiviTech — CNPJ 54.910.501/0001-34  
 > **Representante:** Deivison de Lima Santana  
 > **Contato:** deivitechfsa@gmail.com — 75 98123-1019  
