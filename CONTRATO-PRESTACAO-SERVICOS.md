@@ -8,7 +8,7 @@
 
 ### Contratante
 
-**Nailton Reis**, CPF/CNPJ: __________________________________________, doravante denominado **CONTRATANTE**.
+**Naira Ita Nels**, CPF/CNPJ: __________________________________________, doravante denominado **CONTRATANTE**.
 
 Este documento estabelece as condições comerciais, técnicas e operacionais para desenvolvimento do aplicativo **Zayro**, marketplace de aulas práticas de direção.
 
@@ -39,7 +39,7 @@ O aplicativo **ainda não está em versão final funcional**, não foi entregue 
 
 A entrega contratada corresponde a um **aplicativo Android funcional**, com fluxo operacional do MVP, disponibilizado para uso e validação do CONTRATANTE após conclusão das etapas pendentes.
 
-O código-fonte permanece restrito à CONTRATADA até a quitação total do projeto. Após a quitação integral de todos os valores contratados, o código-fonte será entregue ao CONTRATANTE, passando a pertencer integral e exclusivamente a ele, com o projeto Zayro idealizado por ele. A entrega do código-fonte somente ocorrerá nas hipóteses expressamente previstas nas cláusulas 5.3 e 5.5 deste contrato.
+O código-fonte permanece restrito à CONTRATADA até a quitação integral do contrato. Após a quitação total e a efetiva entrega prevista nas cláusulas 5.3 e 5.5, o código-fonte e os ativos operacionais passam a pertencer integral e exclusivamente ao CONTRATANTE, com o projeto Zayro idealizado por ele.
 
 ---
 
@@ -149,50 +149,91 @@ Funcionalidades novas devem ser previamente acordadas entre as partes antes de q
 
 ---
 
-## 5. Propriedade do código-fonte e titularidade do projeto
+## 5. PROPRIEDADE DO CÓDIGO-FONTE E TITULARIDADE DO PROJETO
 
 ### 5.1 Titularidade do projeto e concepção
 
 As partes reconhecem que o aplicativo Zayro foi concebido e idealizado pelo CONTRATANTE, que definiu seu modelo de negócio, fluxos operacionais, regras de funcionamento, funcionalidades, estratégias comerciais e demais elementos conceituais que compõem a plataforma.
 
-A CONTRATADA atua na condição de prestadora de serviços técnicos especializados, sendo responsável pela implementação tecnológica, programação, arquitetura do sistema e demais atividades necessárias para transformar a concepção do CONTRATANTE em aplicativo funcional.
+A CONTRATADA atua na condição de prestadora de serviços técnicos especializados, sendo responsável pela implementação tecnológica, programação, arquitetura do sistema, estruturação do banco de dados, integrações e demais atividades necessárias para transformar a concepção do CONTRATANTE em aplicativo funcional.
 
-A propriedade da marca Zayro, do modelo de negócio, dos fluxos operacionais, das regras de negócio, da base de usuários, dos dados gerados pela operação e dos demais ativos comerciais vinculados ao projeto pertence exclusivamente ao CONTRATANTE.
+A propriedade da marca Zayro, do modelo de negócio, dos fluxos operacionais, das regras de negócio, da base de usuários, dos dados gerados pela operação e dos demais ativos econômicos e comerciais vinculados ao projeto pertence exclusivamente ao CONTRATANTE.
+
+As partes reconhecem suas respectivas contribuições para o projeto Zayro, cabendo ao CONTRATANTE a idealização e concepção do negócio e à CONTRATADA a implementação técnica da solução tecnológica.
 
 ### 5.2 Guarda e titularidade do código-fonte até a quitação total
 
-Durante a vigência desta relação contratual e **até a quitação total do valor contratado**, o código-fonte, arquitetura, estrutura técnica, repositório, componentes reutilizáveis, serviços e lógica de implementação permanecem sob guarda, administração e propriedade exclusiva da CONTRATADA (DeiviTech / Deivison de Lima Santana), na qualidade de idealizadora técnica e redentora do código-fonte.
+Durante a vigência desta relação contratual e até a quitação integral do valor contratado, o código-fonte, arquitetura, estrutura técnica, repositório, componentes reutilizáveis, serviços e lógica de implementação permanecem sob guarda, administração e propriedade da CONTRATADA, na qualidade de responsável pelo desenvolvimento e implementação técnica do sistema.
 
-O CONTRATANTE e a CONTRATADA são reconhecidos como **redentores conjuntos do projeto Zayro**: o CONTRATANTE como idealizador do negócio e da concepção, e a CONTRATADA como idealizadora e responsável pela implementação técnica e pelo código-fonte.
+O código-fonte permanecerá restrito à CONTRATADA até a quitação integral do contrato. O CONTRATANTE não terá acesso ao código-fonte durante esse período, salvo nas hipóteses expressamente previstas nas cláusulas 5.4 e 5.5.
 
-O código-fonte fica **restrito à CONTRATADA até a quitação total**. O CONTRATANTE não tem acesso ao código-fonte em nenhuma hipótese enquanto não houver quitação integral do projeto, salvo nas condições expressamente previstas nas cláusulas 5.4 e 5.5.
-
-A entrega contratada ao CONTRATANTE é exclusivamente o **aplicativo Android funcional** para uso dentro do escopo, não incluindo cessão, venda, transferência ou acesso ao código-fonte até a quitação total.
+A entrega contratada ao CONTRATANTE, até a quitação integral, corresponde ao aplicativo Android funcional para utilização dentro do escopo definido neste contrato, não incluindo cessão, venda, transferência ou acesso ao código-fonte.
 
 ### 5.3 Transferência do código-fonte mediante quitação total
 
-**Uma vez efetuada a quitação total do valor contratado (R$ 3.000,00) e de quaisquer valores adicionais eventualmente devidos**, a CONTRATADA compromete-se a disponibilizar ao CONTRATANTE o código-fonte atualizado do projeto, bem como os arquivos, credenciais, configurações e informações técnicas indispensáveis para a continuidade operacional da plataforma.
+Uma vez efetuada a quitação integral do valor contratado (R$ 3.000,00), bem como de quaisquer valores adicionais formalmente contratados entre as partes, a CONTRATADA obriga-se a disponibilizar ao CONTRATANTE o código-fonte atualizado do projeto, bem como os arquivos, credenciais, configurações e informações técnicas indispensáveis à continuidade operacional da plataforma.
 
-A partir desse momento, o código-fonte passa a pertencer **integral e exclusivamente ao CONTRATANTE**, que assume a titularidade plena do projeto Zayro como seu idealizador e proprietário. A CONTRATADA é reconhecida como a responsável pela implementação técnica que viabilizou o aplicativo.
+A partir da quitação integral e da efetiva entrega dos elementos previstos nesta cláusula, o código-fonte passará a pertencer ao CONTRATANTE para fins de continuidade, manutenção, evolução e gestão do projeto Zayro, permanecendo reconhecida a contribuição técnica da CONTRATADA como desenvolvedora responsável pela implementação da solução.
 
-A entrega deverá ocorrer de forma organizada e cooperativa, visando assegurar a continuidade do funcionamento do aplicativo sem prejuízo aos usuários e à operação do CONTRATANTE.
+A entrega deverá ocorrer de forma organizada e cooperativa, garantindo a continuidade do funcionamento do aplicativo sem prejuízo aos usuários e à operação do CONTRATANTE.
+
+Juntamente com o código-fonte, a CONTRATADA deverá disponibilizar ao CONTRATANTE todos os acessos administrativos indispensáveis à continuidade operacional do projeto Zayro, incluindo, quando aplicável:
+
+- repositórios de código;
+- infraestrutura Firebase;
+- banco de dados;
+- Firebase Authentication;
+- Firebase Storage;
+- contas de publicação nas lojas de aplicativos;
+- integrações de pagamento;
+- serviços de terceiros vinculados ao projeto;
+- APIs utilizadas pelo sistema;
+- credenciais técnicas;
+- configurações de produção;
+- documentação disponível;
+- demais recursos necessários para a manutenção e continuidade da plataforma.
+
+### 5.3.1 Transferência e titularidade dos ativos operacionais
+
+Após a quitação integral do valor contratado e de quaisquer valores adicionais eventualmente devidos, a CONTRATADA compromete-se a realizar, sem ônus adicional, a transferência ou regularização da titularidade dos ativos operacionais vinculados ao projeto Zayro para os dados indicados pelo CONTRATANTE.
+
+Para fins desta cláusula, consideram-se ativos operacionais, entre outros:
+
+- Conta principal do Firebase;
+- Banco de dados e serviços vinculados ao Firebase;
+- Contas Google Play Console e demais plataformas de publicação;
+- Domínios registrados para o projeto;
+- Contas de gateway de pagamento;
+- Serviços de e-mail transacional;
+- APIs e integrações de terceiros contratadas para operação da plataforma;
+- Repositórios, credenciais e acessos administrativos relacionados exclusivamente ao projeto Zayro;
+- Demais serviços indispensáveis ao funcionamento da plataforma.
+
+O CONTRATANTE indicará o endereço de e-mail e demais dados cadastrais que deverão constar como titular principal desses ativos.
+
+Após a transferência ou regularização da titularidade, a CONTRATADA poderá permanecer com acesso administrativo, técnico ou operacional aos referidos serviços enquanto mantiver vínculo contratual de desenvolvimento, manutenção ou suporte com o CONTRATANTE, sem que isso implique alteração da titularidade dos ativos.
+
+As partes reconhecem que a titularidade dos ativos operacionais vinculados ao projeto Zayro deverá permanecer em nome do CONTRATANTE, garantindo a continuidade do negócio independentemente da manutenção futura da relação contratual entre as partes.
 
 ### 5.4 Rescisão ou encerramento antes da quitação total
 
-Em caso de quebra de contrato, inadimplência ou rescisão pelo CONTRATANTE antes da quitação total, fica estabelecido que:
+Em caso de quebra contratual, inadimplência ou rescisão promovida pelo CONTRATANTE antes da quitação integral do contrato, fica estabelecido que:
 
-- O código-fonte permanece integralmente sob propriedade e controle exclusivo da CONTRATADA;
-- A CONTRATADA poderá suspender desenvolvimento, manutenção, deploy, acesso técnico e operação vinculada à sua infraestrutura;
-- O CONTRATANTE manterá apenas o que já tiver recebido como aplicativo Android/protótipo/apresentação, conforme estágio do projeto no momento da rescisão;
-- Não haverá obrigação de entrega do código-fonte.
+I – o código-fonte permanecerá sob propriedade e controle exclusivo da CONTRATADA;
 
-Estando quitadas as obrigações financeiras referentes aos serviços efetivamente prestados até a data da rescisão, aplicam-se as regras da cláusula 5.5 apenas em casos de contingência extrema.
+II – a CONTRATADA poderá suspender o desenvolvimento, manutenção, implantação e suporte técnico relacionados ao projeto;
+
+III – o CONTRATANTE manterá apenas os materiais, protótipos, versões e entregas efetivamente disponibilizados até a data da rescisão;
+
+IV – não haverá obrigação de entrega do código-fonte antes da quitação integral do contrato.
+
+Caso a rescisão ocorra após a quitação integral dos serviços contratados, aplicar-se-ão as disposições previstas nas cláusulas 5.3 e 5.5.
 
 ### 5.5 Continuidade operacional e contingência
 
-Caso a relação contratual seja encerrada por qualquer das partes após a quitação total, ou em caso de encerramento das atividades da CONTRATADA, incapacidade de prestação dos serviços ou impossibilidade de continuidade do suporte técnico, a CONTRATADA disponibilizará ao CONTRATANTE ou ao profissional por ele indicado a versão mais recente do código-fonte, juntamente com as orientações técnicas indispensáveis à continuidade, manutenção e evolução da plataforma.
+Caso a relação contratual seja encerrada por qualquer das partes após a quitação integral, ou em caso de encerramento das atividades da CONTRATADA, incapacidade de prestação dos serviços, impossibilidade de continuidade do suporte técnico ou descontinuidade definitiva das operações da CONTRATADA, esta disponibilizará ao CONTRATANTE ou ao profissional por ele indicado a versão mais recente do código-fonte, juntamente com os acessos, credenciais, configurações e orientações técnicas indispensáveis à continuidade, manutenção e evolução da plataforma.
 
-Esta disposição tem como finalidade garantir a continuidade operacional do projeto Zayro e não representa obrigação de entrega antecipada do código-fonte durante a vigência normal da parceria entre as partes ou antes da quitação total.
+Esta disposição tem por finalidade assegurar a continuidade operacional do projeto Zayro e não representa obrigação de entrega antecipada do código-fonte durante a vigência normal da parceria ou antes da quitação integral das obrigações financeiras assumidas pelo CONTRATANTE.
 
 ---
 
@@ -285,7 +326,7 @@ Não é exigida assinatura física para início ou continuidade da prestação d
 
 ---
 
-> **Versão:** 2.2 — Atualizado em 15/06/2026  
+> **Versão:** 2.3 — Atualizado em 15/06/2026  
 > **Contratada:** DeiviTech — CNPJ 54.910.501/0001-34  
 > **Representante:** Deivison de Lima Santana  
 > **Contato:** deivitechfsa@gmail.com — 75 98123-1019  
