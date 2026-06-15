@@ -39,7 +39,7 @@ O aplicativo **ainda não está em versão final funcional**, não foi entregue 
 
 A entrega contratada corresponde a um **aplicativo Android funcional**, com fluxo operacional do MVP, disponibilizado para uso e validação do CONTRATANTE após conclusão das etapas pendentes.
 
-O código-fonte não será transferido ao CONTRATANTE. A entrega ao CONTRATANTE é o **aplicativo Android funcional**, e não a propriedade do código-fonte.
+O código-fonte permanece restrito ao idealizador do projeto (DeiviTech / Deivison de Lima Santana). A entrega ao CONTRATANTE é exclusivamente o **aplicativo Android funcional**. O código-fonte somente será fornecido nas hipóteses expressamente previstas na cláusula 5.4 deste contrato.
 
 ---
 
@@ -151,26 +151,32 @@ Funcionalidades novas devem ser previamente acordadas entre as partes antes de q
 
 ## 5. Propriedade do código-fonte
 
-### 5.1 Titularidade
+### 5.1 Titularidade e restrição de acesso
 
-O código-fonte, arquitetura, estrutura técnica, repositório, componentes reutilizáveis, serviços e lógica de implementação pertencem à **DeiviTech / Deivison de Lima Santana**.
+O código-fonte, arquitetura, estrutura técnica, repositório, componentes reutilizáveis, serviços e lógica de implementação pertencem exclusivamente à **DeiviTech / Deivison de Lima Santana**, na qualidade de idealizador e responsável técnico pelo projeto.
 
-O CONTRATANTE recebe o aplicativo Android funcional para uso dentro do escopo contratado, mas não recebe cessão, venda ou transferência do código-fonte.
+O código-fonte fica **restrito ao idealizador do projeto**. O CONTRATANTE não tem acesso ao código-fonte em nenhuma hipótese, salvo nas condições expressamente previstas na cláusula 5.4.
 
-### 5.2 Rescisão ou quebra de contrato
+A entrega contratada ao CONTRATANTE é exclusivamente o **aplicativo Android funcional** para uso dentro do escopo, não incluindo cessão, venda, transferência ou acesso ao código-fonte.
+
+### 5.2 Rescisão ou quebra de contrato pelo CONTRATANTE
 
 Em caso de quebra de contrato, inadimplência ou rescisão pelo CONTRATANTE, fica estabelecido que:
 
-- O código-fonte permanece integralmente sob propriedade da CONTRATADA;
+- O código-fonte permanece integralmente sob propriedade e controle exclusivo da CONTRATADA;
 - A CONTRATADA poderá suspender desenvolvimento, manutenção, deploy, acesso técnico e operação vinculada à sua infraestrutura;
 - O CONTRATANTE manterá apenas o que já tiver recebido como aplicativo Android/protótipo/apresentação, conforme estágio do projeto no momento da rescisão;
-- Não haverá obrigação de entrega do código-fonte.
+- Não haverá obrigação de entrega do código-fonte, exceto nas hipóteses previstas na cláusula 5.4.
 
 ### 5.3 Valor técnico de instância e código
 
 As partes reconhecem que a infraestrutura em operação, a instância Firebase mantida pela CONTRATADA, a arquitetura técnica e o código já desenvolvido possuem valor técnico estimado de **R$ 13.000,00 (treze mil reais)**.
 
 Esse valor representa a base técnica, a estrutura de execução e o aplicativo Android produzido/operado pela CONTRATADA, não significando transferência automática de propriedade ao CONTRATANTE.
+
+### 5.4 Entrega condicional do código-fonte (contingência)
+
+Parágrafo único: Em caso de encerramento das atividades da CONTRATADA, incapacidade de prestar suporte técnico ou descontinuidade definitiva dos serviços, a CONTRATADA entregará ao CONTRATANTE ou ao profissional por ele indicado o código-fonte mais recente do aplicativo, bem como as orientações técnicas indispensáveis à sua utilização e manutenção.
 
 ---
 
@@ -195,7 +201,7 @@ O CONTRATANTE se obriga a:
 - Fornecer informações necessárias para configuração de contas, domínio, Firebase, gateway de pagamento e demais serviços;
 - Validar telas, fluxos e decisões de produto em prazo razoável;
 - Arcar com custos externos da plataforma, quando existirem;
-- Não reivindicar propriedade sobre código-fonte, repositório ou estrutura técnica da CONTRATADA.
+- Não reivindicar propriedade ou acesso ao código-fonte, repositório ou estrutura técnica da CONTRATADA, salvo nas hipóteses previstas na cláusula 5.4.
 
 ---
 
@@ -229,7 +235,7 @@ Não fazem parte do escopo atual:
 Caso o CONTRATANTE deseje rescindir o contrato antes da conclusão:
 
 - Os valores já pagos não serão devolvidos, pois correspondem a trabalho técnico já executado;
-- A CONTRATADA não terá obrigação de entregar código-fonte;
+- A CONTRATADA não terá obrigação de entregar código-fonte, exceto nas hipóteses previstas na cláusula 5.4;
 - A CONTRATADA poderá interromper infraestrutura, deploy e manutenção;
 - O CONTRATANTE receberá apenas o estado do aplicativo Android/protótipo disponível no momento, se tecnicamente possível.
 
@@ -263,7 +269,7 @@ Não é exigida assinatura física para início ou continuidade da prestação d
 
 ---
 
-> **Versão:** 2.0 — Atualizado em 09/06/2026  
+> **Versão:** 2.1 — Atualizado em 15/06/2026  
 > **Contratada:** DeiviTech — CNPJ 54.910.501/0001-34  
 > **Representante:** Deivison de Lima Santana  
 > **Contato:** deivitechfsa@gmail.com — 75 98123-1019  
