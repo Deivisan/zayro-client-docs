@@ -185,8 +185,6 @@ Após a quitação integral do valor contratado e de quaisquer valores adicionai
 
 A CONTRATADA fornecerá todas as exportações de dados, configurações de ambiente, estrutura do banco de dados, regras de segurança, integrações documentadas e demais informações técnicas, de modo que o CONTRATANTE possa aplicar e configurar esses elementos de forma viável nas contas e projetos que ele próprio selecionar e criar (Firebase, domínios, gateway de pagamento, e-mail transacional e demais serviços necessários à operação da plataforma), sem que isso implique a transferência direta das contas ou credenciais atualmente utilizadas pela CONTRATADA.
 
-A CONTRATADA não fornecerá contas de publicação na Google Play Store, Google Play Console ou demais lojas de aplicativos. A responsabilidade pela criação, titularidade e custos de qualquer conta de publicação é exclusivamente do CONTRATANTE.
-
 O CONTRATANTE será responsável por criar as novas contas e projetos em seu próprio nome. A CONTRATADA prestará orientação técnica e suporte razoável durante o processo de migração e replicação da infraestrutura, limitado ao período de entrega e quitação.
 
 As partes reconhecem que, após a quitação integral, a titularidade plena do projeto Zayro, do código-fonte e da infraestrutura operacional deverá estar em nome do CONTRATANTE, garantindo a continuidade do negócio independentemente da manutenção futura da relação contratual entre as partes.
@@ -302,7 +300,7 @@ Não é exigida assinatura física para início ou continuidade da prestação d
 
 ---
 
-> **Versão:** 2.6 — Atualizado em 15/06/2026  
+> **Versão:** 2.7 — Atualizado em 15/06/2026  
 > **Contratada:** DeiviTech — CNPJ 54.910.501/0001-34  
 > **Representante:** Deivison de Lima Santana  
 > **Contato:** deivitechfsa@gmail.com — 75 98123-1019  
