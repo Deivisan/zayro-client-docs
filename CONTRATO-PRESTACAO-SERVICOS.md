@@ -177,13 +177,13 @@ A partir da quitação integral e da efetiva entrega dos elementos previstos nes
 
 A entrega deverá ocorrer de forma organizada e cooperativa, garantindo a continuidade do funcionamento do aplicativo sem prejuízo aos usuários e à operação do CONTRATANTE.
 
-A CONTRATADA fornecerá ao CONTRATANTE o código-fonte, os arquivos de projeto, as exportações do banco de dados, as configurações de ambiente (sem credenciais ativas), a documentação técnica disponível e um guia detalhado de implantação, de modo que o CONTRATANTE possa criar e administrar sua própria infraestrutura de forma independente, incluindo a criação de novos projetos no Firebase e demais serviços, sem depender das contas ou credenciais utilizadas pela CONTRATADA durante o desenvolvimento.
+A CONTRATADA fornecerá ao CONTRATANTE o código-fonte, os arquivos de projeto, as exportações do banco de dados, as configurações de ambiente (sem credenciais ativas), a documentação técnica disponível e um guia detalhado de implantação. Os elementos transferíveis relacionados ao Firebase (estrutura do banco de dados, regras de segurança, configurações de ambiente e exportações) e às APIs/integrações (documentação de endpoints, parâmetros, fluxos de integração e configurações) serão entregues em formato viável para importação, replicação e aplicação nas contas e projetos que o CONTRATANTE selecionar e criar em seu próprio nome, de modo que ele possa constituir e administrar sua própria infraestrutura de forma independente, sem depender das contas ou credenciais utilizadas pela CONTRATADA durante o desenvolvimento.
 
 ### 5.3.1 Transferência e titularidade dos ativos operacionais
 
 Após a quitação integral do valor contratado e de quaisquer valores adicionais eventualmente devidos, a CONTRATADA compromete-se a realizar, sem ônus adicional, a transferência adequada das informações, configurações e dados necessários para que o CONTRATANTE possa constituir sua própria infraestrutura operacional do projeto Zayro de forma independente.
 
-A CONTRATADA fornecerá todas as exportações de dados, configurações de ambiente, estrutura do banco de dados, regras de segurança, integrações documentadas e demais informações técnicas, de modo que o CONTRATANTE possa criar e assumir a titularidade de seus próprios projetos e contas nos serviços utilizados (Firebase, domínios, gateway de pagamento, e-mail transacional e demais serviços necessários à operação da plataforma), sem que isso implique a transferência direta das contas ou credenciais atualmente utilizadas pela CONTRATADA.
+A CONTRATADA fornecerá todas as exportações de dados, configurações de ambiente, estrutura do banco de dados, regras de segurança, integrações documentadas e demais informações técnicas, de modo que o CONTRATANTE possa aplicar e configurar esses elementos de forma viável nas contas e projetos que ele próprio selecionar e criar (Firebase, domínios, gateway de pagamento, e-mail transacional e demais serviços necessários à operação da plataforma), sem que isso implique a transferência direta das contas ou credenciais atualmente utilizadas pela CONTRATADA.
 
 A CONTRATADA não fornecerá contas de publicação na Google Play Store, Google Play Console ou demais lojas de aplicativos. A responsabilidade pela criação, titularidade e custos de qualquer conta de publicação é exclusivamente do CONTRATANTE.
 
@@ -302,7 +302,7 @@ Não é exigida assinatura física para início ou continuidade da prestação d
 
 ---
 
-> **Versão:** 2.5 — Atualizado em 15/06/2026  
+> **Versão:** 2.6 — Atualizado em 15/06/2026  
 > **Contratada:** DeiviTech — CNPJ 54.910.501/0001-34  
 > **Representante:** Deivison de Lima Santana  
 > **Contato:** deivitechfsa@gmail.com — 75 98123-1019  
