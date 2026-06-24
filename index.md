@@ -36,6 +36,7 @@ O Zayro é uma plataforma nacional de conexão entre candidatos à CNH e instrut
 | Roadmap público | [Abrir](./docs/06-roadmap-publico.md) |
 | Roadmap de execução | [Abrir](./docs/07-roadmap-execucao.md) |
 | Contrato de prestação de serviços | [Abrir](./CONTRATO-PRESTACAO-SERVICOS.md) |
+| Termos de Uso | [Abrir](./TERMOS_DE_USO.md) |
 
 ## 🔗 Link oficial
 
