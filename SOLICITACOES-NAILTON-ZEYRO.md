@@ -113,7 +113,18 @@ Cada dia da semana com slots de **50 minutos**:
 
 ---
 
-## 📊 Resumo Visual
+## 8. 🏠 Tela Inicial — Reimaginar Layout
+
+| Aspecto | Descrição |
+|---------|-----------|
+| **Logo** | 🏅 Deixar **bem grande** — o logo do Zeyro como elemento central e imponente |
+| **Arte** | 🎨 Aumentar a arte "Aprender a dirigir evoluiu" — **preencher espaços vazios** |
+| **Design** | ✨ Reimaginar a tela inicial para ficar **mais bem desenhada**, sem áreas ociosas |
+| **Problema atual** | ⬜ "Tem muitos espaços vazios" — precisa ocupar melhor a tela |
+
+> 🗣️ *"A tela inicial vai ser o logo do Zeyro bem grande... 'Aprender a dirigir evoluiu' como já é, só que tem muitos espaços vazios, podemos aumentar essa arte e deixar mais bem desenhado."*
+
+---
 
 | # | Mudança | Prioridade | Complexidade |
 |---|---------|------------|--------------|
@@ -124,6 +135,7 @@ Cada dia da semana com slots de **50 minutos**:
 | 5 | Avaliações no perfil interno do instrutor | 🟢 Baixa | 🟢 Fácil |
 | 6 | Código promocional por instrutor | 🟢 Baixa | 🟡 Média |
 | 7 | Regenerar assets visuais (vídeo, imagens, ícones, naming) | 🔴 Alta | 🟡 Média |
+| 8 | Reimaginar tela inicial (logo grande, arte maior, sem espaços vazios) | 🔴 Alta | 🟢 Fácil |
 
 ---
 
