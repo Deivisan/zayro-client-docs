@@ -69,7 +69,7 @@ A regra de cancelamento do **candidato é a mesma do instrutor**:
 | Item | Situação |
 |------|----------|
 | Reserva de agenda com proteção anti-conflito | ✅ Já existe |
-| Reserva semanal do período DETRAN (prova grátis) | ❌ Falta |
+| Reserva semanal do período DETRAN (prova grátis na 1ª vez; paga se faltou ou nas demais) | ❌ Falta |
 
 ---
 
@@ -102,16 +102,18 @@ A regra de cancelamento do **candidato é a mesma do instrutor**:
 **Como será o fluxo**
 
 - O instrutor define um **período reservado para a prova prática no DETRAN**
-  (ex.: das 7h às 9h).
-- O candidato **não paga** pela prova prática.
-- Esse horário reservado deve existir **toda semana**.
+  (ex.: das 7h às 9h) e a **data** fica a critério do instrutor.
+- A prova prática é **gratuita apenas na primeira vez**.
+- Se o candidato **faltou à prova gratuita**, ele **paga** na próxima.
+- Nas **demais vezes** (além da 1ª), a prova prática também é **paga**.
 - O candidato pode:
   - marcar diretamente na agenda; ou
   - combinar separadamente com o instrutor.
 
 **Status no app:** 🔴 Não implementado
 
-> ⚠️ Não há reserva semanal do período DETRAN nem isenção de pagamento para a prova.
+> ⚠️ Não há reserva semanal do período DETRAN nem controle de prova prática
+> gratuita (1ª vez) / paga (demais ou falta à gratuita).
 
 ---
 
@@ -214,7 +216,7 @@ Com base nos áudios de correção, os seguintes ajustes de UX foram definidos:
 |---|------|--------|
 | 1 | Painel administrativo de aprovação do instrutor | 🔴 Faltando |
 | 2 | Valor da aula definido pela plataforma | 🔴 Faltando |
-| 3 | Reserva semanal do período DETRAN (prova grátis) | 🔴 Faltando |
+| 3 | Reserva semanal do período DETRAN (prova grátis na 1ª vez; paga se faltou ou nas demais) | 🔴 Faltando |
 | 4 | Notificações de prova prática (últimas 2 aulas) | 🔴 Faltando |
 | 5 | Recebimento (quinzenal/mensal) + conta bancária + resumo de ganhos | 🔴 Faltando |
 | 6 | Regra de pagamento fixo = quinzenal/mensal | 🔴 Faltando |
