@@ -126,17 +126,19 @@ Cada dia da semana com slots de **50 minutos**:
 
 ---
 
-| # | Mudança | Prioridade | Complexidade |
-|---|---------|------------|--------------|
-| 1 | Simplificar cadastro instrutor | 🔴 Alta | 🟢 Fácil |
-| 2 | Agenda hora em hora (7 slots de 50min) | 🔴 Alta | 🟡 Média |
-| 3 | Veículo: filtro 10 anos + remover "carro do aluno" | 🟡 Média | 🟢 Fácil |
-| 4 | Cancelamento instrutor: histórico sem punição financeira | 🟡 Média | 🟡 Média |
-| 5 | Avaliações no perfil interno do instrutor | 🟢 Baixa | 🟢 Fácil |
-| 6 | Código promocional por instrutor | 🟢 Baixa | 🟡 Média |
-| 7 | Regenerar assets visuais (vídeo, imagens, ícones, naming) | 🔴 Alta | 🟡 Média |
-| 8 | Reimaginar tela inicial (logo grande, arte maior, sem espaços vazios) | 🔴 Alta | 🟢 Fácil |
+## ✅ Status de Implementação (13/07/2026)
+
+| # | Mudança | Prioridade | Complexidade | Status |
+|---|---------|------------|--------------|--------|
+| 1 | Simplificar cadastro instrutor (6 → 4 etapas) | 🔴 Alta | 🟢 Fácil | ✅ **Implementado** |
+| 2 | Agenda hora em hora (7 slots de 50min, fim dos turnos) | 🔴 Alta | 🟡 Média | ✅ **Implementado** |
+| 3 | Veículo: filtro 10 anos + remover "carro do aluno" | 🟡 Média | 🟢 Fácil | ✅ **Implementado** |
+| 4 | Cancelamento instrutor: histórico sem punição financeira | 🟡 Média | 🟡 Média | ⏳ Pendente (painel admin) |
+| 5 | Avaliações no perfil interno do instrutor | 🟢 Baixa | 🟢 Fácil | ✅ Já existente |
+| 6 | Código promocional por instrutor | 🟢 Baixa | 🟡 Média | ⏳ Pendente |
+| 7 | Regenerar assets visuais (vídeo, imagens, ícones, naming) | 🔴 Alta | 🟡 Média | 🔄 Nailton fará |
+| 8 | Reimaginar tela inicial (logo grande, arte maior, sem espaços vazios) | 🔴 Alta | 🟢 Fácil | ✅ **Implementado** |
 
 ---
 
-> **Próximo passo:** Aguardando Nailton validar cada item acima. Após validação, implementamos.
+> **Próximo passo:** Nailton valida, depois seguimos com itens pendentes.
