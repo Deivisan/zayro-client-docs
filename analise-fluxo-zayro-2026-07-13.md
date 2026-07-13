@@ -180,7 +180,7 @@ A regra de cancelamento do **candidato é a mesma do instrutor**:
 
 **Como será o fluxo**
 
-- Se o pagamento for **fixo**, as únicas opções válidas são:
+- O pagamento é **fixo**: as únicas opções válidas são:
   - **quinzenal**; ou
   - **mensal**.
 
