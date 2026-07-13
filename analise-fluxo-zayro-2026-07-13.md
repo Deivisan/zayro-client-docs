@@ -53,9 +53,16 @@ fiquem evidentes para o cliente.
   - pode **bloquear horários** disponíveis;
   - não pode bloquear uma aula já marcada (para cancelar, usa-se o cancelamento).
 - O instrutor deve reservar **um dia da semana para a prova prática no DETRAN**.
-- A prova prática é **gratuita** para o aluno.
-- Geralmente acontece às **quartas-feiras**, mas fica a combinar entre
-  instrutor e aluno.
+
+**Cancelamento**
+
+A regra de cancelamento do **candidato é a mesma do instrutor**:
+
+- o aluno pode cancelar a aula;
+- **até 24 horas** antes do horário marcado: cancelamento **sem custo**
+  (estorno integral);
+- **fora desse prazo** (menos de 24h de antecedência): incide **multa**, conforme
+  a regra de repasse (parte do valor fica com o instrutor e parte com a plataforma).
 
 **Status no app:** 🟡 Parcialmente implementado
 
@@ -72,7 +79,7 @@ fiquem evidentes para o cliente.
 
 - No painel do instrutor, cada horário disponível já mostra o valor que ele ganhará.
 - Aparece um **resumo de ganhos** conforme ele abre horários.
-- Formas de recebimento: **semanal, quinzenal ou mensal**. Não existe pagamento diário.
+- Formas de recebimento: **mensal ou quinzenal**. Não existe pagamento diário nem semanal.
 - O instrutor informa o **número da conta bancária** no painel.
 - Ele vê:
   - quanto ganharia se fechar toda a agenda;
@@ -84,7 +91,7 @@ fiquem evidentes para o cliente.
 | Item | Situação |
 |------|----------|
 | Modelo de regras financeiras (cancelamento, falta, saldo, saque) | ✅ Já existe |
-| Forma de recebimento (semanal/quinzenal/mensal) | ❌ Falta vincular ao painel |
+| Forma de recebimento (quinzenal/mensal) | ❌ Falta vincular ao painel |
 | Conta bancária do instrutor | ❌ Falta |
 | Resumo de ganhos (potencial da agenda + recebido) | ❌ Falta |
 
@@ -209,7 +216,7 @@ Com base nos áudios de correção, os seguintes ajustes de UX foram definidos:
 | 2 | Valor da aula definido pela plataforma | 🔴 Faltando |
 | 3 | Reserva semanal do período DETRAN (prova grátis) | 🔴 Faltando |
 | 4 | Notificações de prova prática (últimas 2 aulas) | 🔴 Faltando |
-| 5 | Recebimento (semanal/quinzenal/mensal) + conta bancária + resumo de ganhos | 🔴 Faltando |
+| 5 | Recebimento (quinzenal/mensal) + conta bancária + resumo de ganhos | 🔴 Faltando |
 | 6 | Regra de pagamento fixo = quinzenal/mensal | 🔴 Faltando |
 | 7 | Remover filtro "turno prefere" da busca do candidato | 🟡 Refatorar |
 | 8 | Separar cards de instrutores por categoria A/B | 🟡 Refatorar |
