@@ -1,6 +1,6 @@
 # Análise do Fluxo do Zayro
 
-**Autor:** Davidson Santana
+**Autor:** Deivison Santana
 **Data:** 13 de julho de 2026
 **Público:** Cliente — visão executiva do produto
 
