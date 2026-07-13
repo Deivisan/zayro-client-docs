@@ -112,8 +112,8 @@ A regra de cancelamento do **candidato é a mesma do instrutor**:
 
 **Gatilho**
 
-- Quando faltam **2 aulas para o término** das aulas contratadas, o candidato
-  recebe:
+- **Após a confirmação do término da aula** (feita pelo instrutor), quando
+  faltam **2 aulas para o término** das aulas contratadas, o candidato recebe:
 
   > Já se sente seguro de marcar sua aula prática?
   > 1 — Sim
@@ -160,9 +160,10 @@ A regra de cancelamento do **candidato é a mesma do instrutor**:
 
 **Como será o fluxo**
 
-- Quando faltam **2 aulas para o término**, o candidato recebe a notificação
-  com o prompt _"Já se sente seguro de marcar sua aula prática?"_ (Sim/Não),
-  conforme detalhado na seção 5.
+- **Após a confirmação do término da aula** (pelo instrutor), quando faltam
+  **2 aulas para o término**, o candidato recebe a notificação com o prompt
+  _"Já se sente seguro de marcar sua aula prática?"_ (Sim/Não), conforme
+  detalhado na seção 5.
 - O instrutor recebe uma notificação pedindo que ele solicite ao aluno que
   **reserve o horário** no dia em que o instrutor separou para prova prática.
 - O **veículo usado na prova é o do instrutor**.
