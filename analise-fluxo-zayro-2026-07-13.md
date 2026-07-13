@@ -99,22 +99,60 @@ A regra de cancelamento do **candidato é a mesma do instrutor**:
 
 ## 5. Reserva do dia/horário da prova prática (DETRAN)
 
-**Como será o fluxo**
+**Regras gerais**
 
 - O instrutor define um **período reservado para a prova prática no DETRAN**
   (ex.: das 7h às 9h) e a **data** fica a critério do instrutor.
 - A prova prática é **gratuita apenas na primeira vez**.
 - Se o candidato **faltou à prova gratuita**, ele **paga** na próxima.
 - Nas **demais vezes** (além da 1ª), a prova prática também é **paga**.
-- O candidato **reserva o dia da prova prática diretamente na agenda**,
-  dentro do período que o instrutor separou no DETRAN.
-- Essa opção de agendamento da prova prática **aparece para o candidato quando
-  faltam 2 aulas para o término das aulas contratadas**.
+- **Nada é obrigatório**: tudo tem disponibilidade; o instrutor controla a
+  quantidade de pessoas que podem ser agendadas para cada data, com
+  **mínimo de 3 participantes**.
+
+**Gatilho**
+
+- Quando faltam **2 aulas para o término** das aulas contratadas, o candidato
+  recebe:
+
+  > Já se sente seguro de marcar sua aula prática?
+  > 1 — Sim
+  > 2 — Não
+
+**Se SIM**
+
+- Abre a agenda para que ele escolha o dia, a partir dos dias que o instrutor
+  reservou na agenda virtual.
+- Mensagem com os dias/horas em que o instrutor estará no DETRAN com o veículo:
+
+  > Esses são os dias e horas que seu instrutor estará na DETRAN com o veículo
+  > para a realização da prova prática, qual fica melhor para você?
+  > [Opção] [Opção] [Opção]
+
+- Após a escolha, mensagem de finalização:
+
+  > 🎉 Sua primeira prova prática é por nossa conta 🎉
+  > Agora que você já reservou o dia na agenda do seu instrutor, dirija-se ao
+  > DETRAN e realize o seu agendamento por lá.
+
+- Essa agenda segue o **fluxo de cancelamento igual aos outros**: cancelamento
+  **gratuito em até 24h**; se cancelar após esse tempo, o próximo agendamento
+  será **cobrado**.
+
+**Se NÃO**
+
+- Oferta para comprar mais 2 aulas:
+
+  > O que acha de comprar mais 2 aulas para se sentir mais seguro?
+
+- Em seguida, agenda do instrutor para escolha dos dias e horários para
+  **pagamento**.
 
 **Status no app:** 🔴 Não implementado
 
-> ⚠️ Não há reserva semanal do período DETRAN nem controle de prova prática
-> gratuita (1ª vez) / paga (demais ou falta à gratuita).
+> ⚠️ Falta: gatilho nas 2 últimas aulas, escolha do dia na agenda do instrutor,
+> mensagem de finalização, ramificação "não" (compra de 2 aulas) e controle de
+> capacidade (mín. 3 participantes).
 
 ---
 
@@ -122,8 +160,9 @@ A regra de cancelamento do **candidato é a mesma do instrutor**:
 
 **Como será o fluxo**
 
-- Quando o aluno chega nas **duas últimas aulas**, ele recebe uma notificação
-  para escolher o dia da prova prática.
+- Quando faltam **2 aulas para o término**, o candidato recebe a notificação
+  com o prompt _"Já se sente seguro de marcar sua aula prática?"_ (Sim/Não),
+  conforme detalhado na seção 5.
 - O instrutor recebe uma notificação pedindo que ele solicite ao aluno que
   **reserve o horário** no dia em que o instrutor separou para prova prática.
 - O **veículo usado na prova é o do instrutor**.
