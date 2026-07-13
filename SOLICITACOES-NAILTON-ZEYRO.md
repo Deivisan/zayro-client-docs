@@ -1,7 +1,6 @@
 # 📋 Modificações Solicitadas — Nailton
 
 > **Data:** 13/07/2026
-> **Produto:** Zeyro
 > **Fonte:** 6 áudios WhatsApp transcritos via GROQ Whisper
 > **Status:** ⏳ Aguardando validação do Nailton
 
@@ -101,6 +100,19 @@ Cada dia da semana com slots de **50 minutos**:
 
 ---
 
+## 7. 🎬 Identidade Visual — Regeneração de Assets
+
+| Item | Ação |
+|------|------|
+| **Vídeo do Zeyro** | 🔄 Regenerar — está com o nome antigo (Zayro) |
+| **Pente-fino geral** | 🔍 Revisar **todas as partes** do app/assets que ainda têm o nome incorreto |
+| **Imagens** | 🖼️ Redimensionar para o **tamanho correto** que cabe no app |
+| **Ícones** | 🎯 Ajustar/redimensionar ícones conforme necessário |
+
+> 🗣️ *"Vou passar o pente fino em todas as partes que ainda tiver com o nome incorreto, nas imagens também e vou redimensionar para o tamanho correto para caber no app e os ícones."*
+
+---
+
 ## 📊 Resumo Visual
 
 | # | Mudança | Prioridade | Complexidade |
@@ -111,6 +123,7 @@ Cada dia da semana com slots de **50 minutos**:
 | 4 | Cancelamento instrutor: histórico sem punição financeira | 🟡 Média | 🟡 Média |
 | 5 | Avaliações no perfil interno do instrutor | 🟢 Baixa | 🟢 Fácil |
 | 6 | Código promocional por instrutor | 🟢 Baixa | 🟡 Média |
+| 7 | Regenerar assets visuais (vídeo, imagens, ícones, naming) | 🔴 Alta | 🟡 Média |
 
 ---
 
