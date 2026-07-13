@@ -106,9 +106,10 @@ A regra de cancelamento do **candidato é a mesma do instrutor**:
 - A prova prática é **gratuita apenas na primeira vez**.
 - Se o candidato **faltou à prova gratuita**, ele **paga** na próxima.
 - Nas **demais vezes** (além da 1ª), a prova prática também é **paga**.
-- O candidato pode:
-  - marcar diretamente na agenda; ou
-  - combinar separadamente com o instrutor.
+- O candidato **reserva o dia da prova prática diretamente na agenda**,
+  dentro do período que o instrutor separou no DETRAN.
+- Essa opção de agendamento da prova prática **aparece para o candidato quando
+  faltam 2 aulas para o término das aulas contratadas**.
 
 **Status no app:** 🔴 Não implementado
 
